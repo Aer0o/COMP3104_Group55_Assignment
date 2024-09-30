@@ -1,7 +1,7 @@
 # COMP3104 Group 1 Assignment
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Aer0o/COMP3104_Group1_Assignment)
-![GitHub contributors](https://img.shields.io/github/contributors/Aer0o/COMP3104_Group1_Assignment)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aer0o/COMP3104_Group55_Assignment)
+![GitHub contributors](https://img.shields.io/github/contributors/Aer0o/COMP3104_Group55_Assignment)
 
 ## 👥 Group Members
 
