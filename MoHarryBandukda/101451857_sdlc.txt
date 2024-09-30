@@ -3,3 +3,7 @@
 
 Learning DevOps is crucial in the SDLC as it fosters collaboration btw development and operations teams, leading to faster and more reliable software delivery. 
 It also emphaszes automation and continuus integration, which improve efficiency and reduce the risk of errors.
+
+In Software Development Cycle Devops is a important aspect of the overall process.
+It improves the collaboation, provides fast delivery and maintain the quality of the project.
+
