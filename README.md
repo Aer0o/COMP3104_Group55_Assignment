@@ -16,7 +16,7 @@
 
 ## 📝 Project Description
 
-This repository is dedicated to Group 1's Assignment 1 for COMP3104. The main objectives of this project are:
+This repository is dedicated to Group 55's Assignment 1 for COMP3104. The main objectives of this project are:
 
 - Learn the fundamentals of Git commit practices
 - Understand and implement merging strategies
@@ -28,29 +28,30 @@ Through this project, we aim to gain practical experience in collaborative softw
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Aer0o/COMP3104_Group1_Assignment.git
+   git clone https://github.com/Aer0o/COMP3104_Group55_Assignment.git
    ```
 2. Navigate to the project directory:
    ```
-   cd COMP3104_Group1_Assignment
+   cd COMP3104_Group55_Assignment
    ```
 3. [Additional setup steps to be added]
 
 ## 🔄 CI/CD Pipeline
 
-[Describe your CI/CD pipeline here. Include information about the tools you're using, the stages in your pipeline, and how it's integrated with your GitHub repository.]
+[Describe our CI/CD pipeline here. Include information about the tools you're using, the stages in your pipeline, and how it's integrated with your GitHub repository.]
 
 ## 🌿 Branching Strategy
 
-[Explain your team's branching strategy. This could include information about your main branch, feature branches, release branches, and how you handle merging and pull requests.]
+Our team will follow a structured branching strategy for efficient and organized collaborative development. Here's our approach:
 
-## 📊 Project Status
+### Main Branch
+- **Name**: `main`
+- **Description**: Contains a stable, production-ready version of the project. Only approved and tested changes are merged here.
 
-[Include any relevant status information, current milestones, or progress updates here.]
-
-## 🤝 Contributing
-
-We welcome contributions from all team members. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to make contributions to this project.
+### Individual Contribution Branches
+- **Naming Convention**: `{studentID}-{name}`
+- **Description**: Each member has their own branch for personal work and smaller tasks.
+- **Example**: `101447469-Oleg`
 
 ## 📄 License
 
@@ -58,4 +59,4 @@ We welcome contributions from all team members. Please refer to our [CONTRIBUTIN
 
 ---
 
-© 2023 COMP3104 Group 1. All Rights Reserved.
+© 2024 COMP3104 Group 55. All Rights Reserved.
