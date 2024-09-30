@@ -20,3 +20,13 @@ context of monolith vs microservice architectures.
 7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
 cloud computing products.
 8. Identify the market space as a DevOps engineers.
+
+
+Course Delivery Mode
+The course uses various instructional methods, such as lectures, demonstrations, hands-on
+exercises, and take-home assignments. The delivery mode depends on whether the course is
+online or in person. Online lectures will be the primary mode, but there may be in-person
+lectures for in-person participants. Labs will be conducted virtually for the online program, while
+in-person program students must attend on-campus labs. For more information about the delivery
+mode, please refer to D2L. Any updates will be communicated through D2L in advance.
+
