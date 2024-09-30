@@ -3,3 +3,20 @@ engineer brings to a workplace environment to increase productivity. Analyze and
 various developer operation implementations available and implement hands-on work using
 industry standard toolkit. Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps.
+
+Course Outcomes
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
+using industry standard tools and techniques such as continuous
+integration/delivery/deployment strategies, software development lifecycle, application
+containerization for deployment, etc.
+2. Perform hand-on lab work by applying DevOps techniques.
+3. Ensure effective cross collaboration amongst IT staff by following the role and
+responsibilities of an engineer.
+4. Analyze and utilize Version Control System workflows for low-risk software releases.
+5. Take well informed architectural decisions for software products, specifically in the
+context of monolith vs microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
+cloud computing products.
+8. Identify the market space as a DevOps engineers.
