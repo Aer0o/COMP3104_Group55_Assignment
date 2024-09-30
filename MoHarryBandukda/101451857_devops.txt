@@ -3,3 +3,14 @@
 
 COMP3104 course focuses on the clean and efficient aspects of DevOps, emphasizing the use of deployment and version control tools.
 It provides students with a strong understanding of how to navigate various DevOps environments, streamline workflows, and automate tasks.
+
+In DevOps, we learn about various version control systems to enhance our workflow management. 
+
+Key topics include:
+- GitHub: Understanding its features for version control and collaboration.
+- Continuous Integration: Learning the principles of CI to automate testing and integration of code.
+- Travis CI: Exploring how to use this tool for automated testing and deployment.
+- Azure DevOps: Gaining insights into project management, CI/CD, and collaboration tools offered by Azure.
+- GitHub Actions: Implementing automation workflows directly in GitHub for build and deployment processes.
+
+
