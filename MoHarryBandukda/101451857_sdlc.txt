@@ -1,0 +1,5 @@
+// Mo Harry Bandukda
+// Student ID: 101451857
+
+Learning DevOps is crucial in the SDLC as it fosters collaboration btw development and operations teams, leading to faster and more reliable software delivery. 
+It also emphaszes automation and continuus integration, which improve efficiency and reduce the risk of errors.
