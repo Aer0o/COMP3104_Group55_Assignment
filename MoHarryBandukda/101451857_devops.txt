@@ -7,10 +7,10 @@ It provides students with a strong understanding of how to navigate various DevO
 In DevOps, we learn about various version control systems to enhance our workflow management. 
 
 There are four pillars of DevOps:
-- collaboation
+- Collaboration
 - Automation
 - Data and Metrics
-- Continous Improvment
+- Continuous Improvement
 
 Key topics include:
 - GitHub: Understanding its features for version control and collaboration.
