@@ -9,7 +9,7 @@
 |------|------|------------|--------|
 | **Leader** | Oleg Chystieiev | 101447469 | [Aer0o](https://github.com/Aer0o) |
 | Member 2 | Mo Harry Bandukda | 101451857 | [harrybandukda](https://github.com/harrybandukda) |
-| Member 3 | TBA | - | - |
+| Member 3 | Teimur Terchyyev | 101412670 | [cozimo-davinci] (https://github.com/cozimo-davinci) |
 | Member 4 | TBA | - | - |
 | Member 5 | TBA | - | - |
 | Member 6 | TBA | - | - |
