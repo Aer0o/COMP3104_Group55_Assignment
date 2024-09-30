@@ -1,0 +1,5 @@
+// Mo Harry Bandukda
+// Student ID: 101451857
+
+COMP3104 course focuses on the clean and efficient aspects of DevOps, emphasizing the use of deployment and version control tools.
+It provides students with a strong understanding of how to navigate various DevOps environments, streamline workflows, and automate tasks.
