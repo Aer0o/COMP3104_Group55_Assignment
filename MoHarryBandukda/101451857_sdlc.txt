@@ -7,3 +7,4 @@ It also emphasizes automation and continuous integration, which improve efficien
 In Software Development Cycle Devops is a important aspect of the overall process.
 It improves the collaboration, provides fast delivery and maintain the quality of the project.
 
+To conclude, DevOps is important aspect of software development life cycle, as it echanace collabration, accelerate delivery and maintain project quality.
