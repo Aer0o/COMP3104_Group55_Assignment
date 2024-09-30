@@ -18,3 +18,7 @@ Key topics include:
 - Travis CI: Exploring how to use this tool for automated testing and deployment.
 - Azure DevOps: Gaining insights into project management, CI/CD, and collaboration tools offered by Azure.
 - GitHub Actions: Implementing automation workflows directly in GitHub for build and deployment processes.
+
+To conclude, the COMP3104 course provides students with vital skills in DevOps, 
+focusing on collaboration, automation, and workflow management. 
+By mastering important tools and principles, students are equipped to drive efficiency and innovation in software developmnt.
