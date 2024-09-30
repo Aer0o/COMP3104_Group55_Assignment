@@ -21,4 +21,4 @@ Key topics include:
 
 To conclude, the COMP3104 course provides students with vital skills in DevOps, 
 focusing on collaboration, automation, and workflow management. 
-By mastering important tools and principles, students are equipped to drive efficiency and innovation in software developmnt.
+By mastering important tools and principles, students are equipped to drive efficiency and innovation in software development.
