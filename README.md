@@ -10,7 +10,7 @@
 | **Leader** | Oleg Chystieiev | 101447469 | [Aer0o](https://github.com/Aer0o) |
 | Member 2 | Mo Harry Bandukda | 101451857 | [harrybandukda](https://github.com/harrybandukda) |
 | Member 3 | Teimur Terchyyev | 101412670 | [cozimo-davinci](https://github.com/cozimo-davinci) |
-| Member 4 | TBA | - | - |
+| Member 4 | Fredrich Tan | 101318950  | [Cloudtemplar26](https://github.com/Cloudtemplar2615) |
 | Member 5 | TBA | - | - |
 | Member 6 | TBA | - | - |
 
@@ -34,7 +34,12 @@ Through this project, we aim to gain practical experience in collaborative softw
    ```
    cd COMP3104_Group55_Assignment
    ```
-3. [Additional setup steps to be added]
+3. Create Switch to your Branch:
+   
+   git check out -b STUDENTID-Name
+4. Push the branch to Github
+
+   git push -u origin STIDENTID-Name
 
 ## 🔄 CI/CD Pipeline
 
