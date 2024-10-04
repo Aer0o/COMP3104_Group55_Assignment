@@ -1,0 +1,72 @@
+COMP3104 - DevOps
+Course Description
+In this course students will learn the procedures, protocols and best practices that a DevOps
+engineer brings to a workplace environment to increase productivity. Analyze and evaluate
+various developer operation implementations available and implement hands-on work using
+industry standard toolkit. Create solutions to complex business problems by adhering to the core
+responsibilities of DevOps.
+Course Outcomes
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
+using industry standard tools and techniques such as continuous
+integration/delivery/deployment strategies, software development lifecycle, application
+containerization for deployment, etc.
+2. Perform hand-on lab work by applying DevOps techniques.
+3. Ensure effective cross collaboration amongst IT staff by following the role and
+responsibilities of an engineer.
+4. Analyze and utilize Version Control System workflows for low-risk software releases.
+5. Take well informed architectural decisions for software products, specifically in the
+context of monolith vs microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
+cloud computing products.
+8. Identify the market space as a DevOps engineer. s.
+LIST OF TEXTBOOKS AND OTHER TEACHING AIDS:
+Required: None
+COMP3104 - DevOps – Last update: 08/18/2024 2
+Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+Course Delivery Mode
+The course uses various instructional methods, such as lectures, demonstrations, hands-on
+exercises, and take-home assignments. The delivery mode depends on whether the course is
+online or in person. Online lectures will be the primary mode, but there may be in-person
+lectures for in-person participants. Labs will be conducted virtually for the online program, while
+in-person program students must attend on-campus labs. For more information about the delivery
+mode, please refer to D2L. Any updates will be communicated through D2L in advance.
+Assignment Policy
+● All assignments must be submitted on the due date based on an instruction given by the
+professor. Late assignment will be penalized 20% per day to a maximum of seven days,
+the weekend included unless the student has notified the professor (via email, phone or in
+person) ahead of the due date that he/she has a valid reason for a late submission.
+Test Policy
+● Students must complete tests and the final exam on the assigned day. If unable to
+complete the test/exam as scheduled, students are required to notify the professor at least
+three days prior to the date, so alternative arrangements can be made. Failure to comply
+with this policy may result in a zero grade.
+● There will be no makeup quiz and lab exercises. If you anticipate missing more than two
+quizzes or lab exercises for serious, major reasons, notify your professor beforehand.
+In-Person Exam Policy
+Mid-term and Final exams for the T177 program will be conducted in person. Please note the
+following exam schedule:
+● Mid-Term Exams: Week 7 of the semester
+● Final Exams: Week 15 of the semester
+Students are expected to be available in person during these exam periods.
+Important Note on the Use of Generative AI:
+Students must review the "Generative AI Usage Guidelines" document, available on D2L, for
+detailed instructions on how generative AI tools may be used in this course. The course
+evaluation table now includes a column labelled "AI Usage Allowed," indicating whether AI use
+is permitted for each assessment.
+COMP3104 - DevOps – Last update: 08/18/2024 3
+Yes: AI can be used with proper referencing.
+No: AI cannot be used, and any usage will be considered plagiarism and subject to academic
+penalties.
+Misuse of AI in assessments where it is not permitted or failure to adequately disclose its use
+will be treated as a violation of academic integrity. According to college policy, consequences
+may include failing the assignment or the course or more severe disciplinary actions. Students
+must also download the AI Usage Declaration form from D2L, complete it, and submit it
+with their assignments where AI use is permitted. Adherence to these guidelines is mandatory
+to maintain academic integrity
