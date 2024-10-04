@@ -1,15 +1,26 @@
 In the software development cycle, understanding DevOps is essential for several reasons:
 
-1. Better Collaboration: DevOps encourages better communication and the dismantling of silos between development and operational teams. This results in a streamlined and more effective workflow, which expedites the development process.
+1. Better Collaboration: DevOps encourages better communication and the dismantling of silos between development and
+operational teams. This results in a streamlined and more effective workflow, which expedites the development process.
 
-2. Faster Delivery: DevOps facilitates quicker and more frequent software releases with automation technologies and continuous integration/continuous delivery (CI/CD) pipelines. Thanks to this, teams can react swiftly to user input, market demands, and required modifications.
+2. Faster Delivery: DevOps facilitates quicker and more frequent software releases with automation technologies and
+continuous integration/continuous delivery (CI/CD) pipelines. Thanks to this, teams can react swiftly to user input,
+market demands, and required modifications.
 
-3. Enhanced Quality: DevOps approaches integrate automated testing early in the development cycle, enabling for faster discovery of errors. As a result, there are fewer problems and higher-quality software overall.
+3. Enhanced Quality: DevOps approaches integrate automated testing early in the development cycle, enabling for faster
+discovery of errors. As a result, there are fewer problems and higher-quality software overall.
 
-4. Reliability and Stability: DevOps contributes to the uptime and stability of systems through automated monitoring and infrastructure management. Issues are promptly identified and fixed, lowering the possibility of downtime.
+4. Reliability and Stability: DevOps contributes to the uptime and stability of systems through automated monitoring
+and infrastructure management. Issues are promptly identified and fixed, lowering the possibility of downtime.
 
-5. Scalability: DevOps approaches enable scalability by using automation technologies to manage infrastructure. DevOps facilitates smooth resource scalability as software requirements increase, lowering complexity and the need for manual intervention.
+5. Scalability: DevOps approaches enable scalability by using automation technologies to manage infrastructure.
+DevOps facilitates smooth resource scalability as software requirements increase, lowering complexity and the need
+for manual intervention.
 
-6. Faster Issue Resolution: DevOps teams can detect and address issues more rapidly, which cuts down on troubleshooting time and facilitates quick improvements. This is made possible by continuous monitoring and feedback loops.
+6. Faster Issue Resolution: DevOps teams can detect and address issues more rapidly, which cuts down on
+troubleshooting time and facilitates quick improvements. This is made possible by continuous monitoring and
+feedback loops.
 
-7. Cost Efficiency: By automating tedious processes, maximising resources, and reducing downtime, DevOps lowers expenses. It eliminates the inefficiencies of traditional development paradigms, ultimately leading to better use of time and resources.
+7. Cost Efficiency: By automating tedious processes, maximising resources, and reducing downtime, DevOps lowers
+expenses. It eliminates the inefficiencies of traditional development paradigms, ultimately leading to better
+use of time and resources.
