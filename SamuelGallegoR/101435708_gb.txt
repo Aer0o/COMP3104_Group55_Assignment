@@ -1,1 +1,6 @@
-#---- ABOUT GEORGE BROWN COLLEGE -----#
+###### ABOUT GEORGE BROWN COLLEGE ######
+
+#---Section 1: Overview of George Brown College---#
+
+George Brown College is a public, fully accredited college of applied arts and technology located in Toronto, Ontario, Canada. The college provides a wide range of full-time, part-time, and continuing education programs designed to meet the needs of students and industry.
+
