@@ -15,7 +15,7 @@ containerization for deployment, etc.
 3. Ensure effective cross collaboration amongst IT staff by following the role and
 responsibilities of an engineer.
 4. Analyze and utilize Version Control System workflows for low-risk software releases.
-5. Take well informed architectural decisions for software products, specifically in the
+5. Take well-informed architectural decisions for software products, specifically in the
 context of monolith vs microservice architectures.
 6. Monitor code quality and deploy applications to hosting services.
 7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
