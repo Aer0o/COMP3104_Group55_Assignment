@@ -7,12 +7,12 @@
 
 | Role | Name                    | Student ID | GitHub                                                |
 |------|-------------------------|------------|-------------------------------------------------------|
-| **Leader** | Oleg Chystieiev         | 101447469  | [Aer0o](https://github.com/Aer0o)                     |
+| **Leader** | Oleg Chystieiev         | 101447469  | [Aer0o](https://github.com/Aer0o)                   |
 | Member 2 | Mo Harry Bandukda       | 101451857  | [harrybandukda](https://github.com/harrybandukda)     |
 | Member 3 | Teimur Terchyyev        | 101412670  | [cozimo-davinci](https://github.com/cozimo-davinci)   |
 | Member 4 | Fredrich Tan            | 101318950  | [Cloudtemplar26](https://github.com/Cloudtemplar2615) |
 | Member 5 | Akorede Daniel Osunkoya | 101477407  | [Kodex-Baba](https://github.com/Kodex-Baba)           |
-| Member 6 | TBA                     | -          | -                                                     |
+| Member 6 | Samuel Gallego Rivera   | 101435708  | [SamuelGallegoR](https://github.com/SamuelGallegoR)   |
 
 ## 📝 Project Description
 
