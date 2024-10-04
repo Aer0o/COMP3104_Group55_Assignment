@@ -4,3 +4,7 @@
 
 George Brown College is a public, fully accredited college of applied arts and technology located in Toronto, Ontario, Canada. The college provides a wide range of full-time, part-time, and continuing education programs designed to meet the needs of students and industry.
 
+
+#---Section 2: Programs and Specializations----#
+
+George Brown offers programs in fields such as Business, Technology, Hospitality, Design, Health Sciences, and the Arts. It is particularly known for its hands-on, career-focused education that equips students with the skills they need for the workforce.
