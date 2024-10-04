@@ -70,3 +70,5 @@ may include failing the assignment or the course or more severe disciplinary act
 must also download the AI Usage Declaration form from D2L, complete it, and submit it
 with their assignments where AI use is permitted. Adherence to these guidelines is mandatory
 to maintain academic integrity
+
+I had no idea what to do for the 10th commit
