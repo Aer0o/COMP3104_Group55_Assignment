@@ -43,7 +43,75 @@ Through this project, we aim to gain practical experience in collaborative softw
 
 ## 🔄 CI/CD Pipeline
 
-[Describe our CI/CD pipeline here. Include information about the tools you're using, the stages in your pipeline, and how it's integrated with your GitHub repository.]
+Our CI/CD pipeline is set up to ensure the smooth and efficient development, testing, and deployment of our project. This pipeline automates the process of verifying code quality, running tests, and ensuring that all changes pushed to the repository meet the required standards. Below is a breakdown of the tools, stages, and setup for the CI pipeline.
+
+### 🛠️ Tools and Technologies
+
+- **GitHub Actions**: We use GitHub Actions for Continuous Integration (CI). It helps us automate our workflows by running tests and other checks whenever code is pushed or a pull request is made.
+- **YAML Configuration**: The pipeline is configured through a `.github/workflows/ci.yml` file, which contains instructions for the CI process.
+
+### 🔄 Pipeline Stages
+
+1. **Trigger**: 
+   - The CI pipeline is triggered automatically whenever changes are pushed to any branch in the repository or when a pull request is opened. This ensures that all code contributions are validated before being merged into the `main` branch.
+
+
+2. **Setup Node.js**: 
+   - The workflow sets up the required environment, specifically the Node.js version needed for the project. The configuration file includes:
+     
+     ```yaml
+     jobs:
+       build:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: actions/checkout@v2
+           - name: Set up Node.js
+             uses: actions/setup-node@v2
+             with:
+               node-version: '14'
+     ```
+
+
+3. **Install Dependencies**:
+   - The workflow installs all project dependencies using `npm install`. This ensures that the environment has all the necessary libraries and tools.
+     
+     ```yaml
+           - name: Install Dependencies
+             run: npm install
+     ```
+
+
+4. **Run Tests**:
+   - Once the dependencies are installed, the pipeline runs the project's tests to verify that everything is working as expected. This is crucial for catching errors early in the development process.
+     
+     ```yaml
+           - name: Run Tests
+             run: npm test
+     ```
+
+
+5. **Build and Lint**:
+   - The pipeline also builds the project and performs linting to ensure the code follows coding standards. Any issues with the build or code quality will cause the pipeline to fail, alerting developers to address the problems before merging.
+     
+     ```yaml
+           - name: Lint Code
+             run: npm run lint
+     ```
+
+
+6. **Notification**:
+   - The pipeline is configured to notify the team of the build status, whether successful or failed. This ensures timely communication of issues.
+   
+### 🔁 Continuous Integration (CI) Flow
+
+The CI pipeline ensures that:
+
+- Every push and pull request is validated.
+- Code quality is maintained through linting and testing.
+- Only passing code is merged into the `main` branch to avoid breaking the project.
+
+By automating these processes, we ensure a more efficient and reliable workflow, reducing the chances of introducing bugs or issues into the project.
+
 
 ## 🌿 Branching Strategy
 
