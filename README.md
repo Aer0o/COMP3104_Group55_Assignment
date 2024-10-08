@@ -128,7 +128,7 @@ Our team will follow a structured branching strategy for efficient and organized
 
 ## 📄 License
 
-[Include license information here if applicable]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
