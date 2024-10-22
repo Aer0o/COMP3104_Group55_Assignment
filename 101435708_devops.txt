@@ -1,0 +1,13 @@
+#### ABOUT THE COMP3104 DEVOPS COURSE ####
+
+#---Section 1: Introduction to COMP 3104 - DevOps---#
+
+COMP 3104 is a DevOps course offered at George Brown College by prof. Pritish Patel that introduces students to the principles and practices of DevOps. The course emphasizes collaboration between development and operations teams, continuous integration, continuous delivery, and automation.
+
+
+#---Section 2: Programs and Specializations---#
+George Brown offers programs in fields such as Business, Technology, Hospitality, Design, Health Sciences, and the Arts. It is particularly known for its hands-on, career-focused education that equips students with the skills they need for the workforce.
+
+
+#---Section 3: Skills Acquired in the Course---#
+Students will gain practical skills in automating workflows, managing version control systems, setting up CI/CD pipelines, and using cloud platforms. These skills are essential for modern software development teams that want to enhance productivity and reduce deployment time.
